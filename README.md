@@ -33,7 +33,7 @@ When using this website open the Chrome DevTool by pressing Command+Option+I (Ma
 
 ## Screenshots
 <div align="center">
-    <img src="/Assets/Challenge-1-Screenshot-1" width="400px"</img> 
+    <img src="/Assets/Challenge-1-Screenshot-1.png" width="400px"</img> 
 </div>
 
 ## Credits
