@@ -32,7 +32,9 @@ When using this website open the Chrome DevTool by pressing Command+Option+I (Ma
 [Horiseon Inc.](https://tylersanford55.github.io/challenge-1/)
 
 ## Screenshots
-![](Desktop/Challenge-1-Screenshot-1.png)
+<div align="center">
+    <img src="/desktop/Challenge-1-Screenshot-1" width="400px"</img> 
+</div>
 
 ## Credits
 Starter HTML and CSS code cloned from the University of Utah Coding Bootcamp Class Repository.
