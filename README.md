@@ -29,4 +29,7 @@ N/A
 When using this website open the Chrome DevTool by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). The newly opened panel will include code that meets all of the acceptance criteria mentioned above.
 
 ## Deployment Link
-[Horiseon Inc.]()
+[Horiseon Inc.](https://tylersanford55.github.io/challenge-1/)
+
+## Screenshots
+
