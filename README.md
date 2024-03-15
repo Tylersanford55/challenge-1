@@ -32,7 +32,10 @@ When using this website open the Chrome DevTool by pressing Command+Option+I (Ma
 [Horiseon Inc.](https://tylersanford55.github.io/challenge-1/)
 
 ## Screenshots
-![]("Challenge-1-homework/assets/Challenge-1-Screenshot-1.png") 
+<img width="1440" alt="Challenge-1-Screenshot-2" src="https://github.com/Tylersanford55/challenge-1/assets/153567965/d585f5de-eb78-4314-b9f9-995d213fc196">
+<img width="1440" alt="Challenge-1-Screenshot-3" src="https://github.com/Tylersanford55/challenge-1/assets/153567965/4bd332f1-d218-4e82-b414-1b5c98f0c4e4"><img width="1440" alt="Challenge-1-Screenshot-1 " src="https://github.com/Tylersanford55/challenge-1/assets/153567965/d5c35fef-2f71-4778-a7d8-e8931cdda45f">
+
+
 
 ## Credits
 Starter HTML and CSS code cloned from the University of Utah Coding Bootcamp Class Repository.
